@@ -1,0 +1,501 @@
+customer_id,age,income_monthly,employment_years,existing_loans,account_balance,num_products,transaction_count,account_age_months,has_savings_account,region,account_type,education_level,loan_default,cluster
+GTCO00001,60,130640.0,17.0,2,470676,3,106,236,0,Abuja,current,undergraduate,0,0
+GTCO00002,50,256582.0,33.0,2,163280,4,54,53,1,Kano,savings,undergraduate,0,1
+GTCO00003,36,460573.0,2.0,2,123516,5,10,52,0,Lagos,savings,undergraduate,1,0
+GTCO00004,64,485695.0,14.0,0,483366,5,87,8,1,Ibadan,premium,postgraduate,0,1
+GTCO00005,29,121476.0,6.0,1,202096,5,64,61,0,Ibadan,savings,undergraduate,0,0
+GTCO00006,42,366955.0,6.0,3,438098,2,48,127,1,Kano,savings,undergraduate,0,2
+GTCO00007,60,227280.0,3.0,3,424139,3,15,145,1,Abuja,savings,undergraduate,1,0
+GTCO00008,40,735510.0,,3,381188,5,70,32,0,Lagos,premium,postgraduate,1,1
+GTCO00009,44,655468.0,8.0,0,237549,5,51,172,1,Abuja,current,undergraduate,0,0
+GTCO00010,32,758646.0,15.0,0,34165,2,112,231,1,Abuja,current,secondary,0,2
+GTCO00011,32,697144.0,29.0,2,72203,2,112,124,1,Lagos,current,undergraduate,1,2
+GTCO00012,45,474568.0,33.0,3,489965,5,77,127,0,Lagos,savings,secondary,1,2
+GTCO00013,57,246141.0,30.0,0,271258,1,89,39,0,Ibadan,savings,undergraduate,0,1
+GTCO00014,61,694736.0,27.0,2,463181,5,92,172,0,Ibadan,savings,undergraduate,0,2
+GTCO00015,45,598685.0,29.0,3,41321,5,102,126,1,Lagos,savings,undergraduate,1,2
+GTCO00016,24,238031.0,33.0,1,340441,2,90,103,1,Port Harcourt,savings,secondary,0,2
+GTCO00017,43,179180.0,27.0,2,363796,2,7,37,0,Ibadan,premium,undergraduate,1,1
+GTCO00018,23,126234.0,33.0,0,366448,5,80,89,1,Port Harcourt,savings,undergraduate,0,0
+GTCO00019,45,624242.0,4.0,0,250014,5,96,136,1,Lagos,savings,undergraduate,0,0
+GTCO00020,51,238352.0,22.0,2,161498,5,34,198,0,Ibadan,savings,undergraduate,0,0
+GTCO00021,59,139459.0,2.0,2,22772,2,94,20,1,Abuja,savings,undergraduate,0,1
+GTCO00022,23,469995.0,10.0,0,370898,5,116,203,0,Lagos,premium,secondary,1,0
+GTCO00023,42,255004.0,5.0,1,270856,5,25,115,0,Kano,savings,secondary,0,0
+GTCO00024,54,526152.0,10.0,3,399583,4,32,31,1,Port Harcourt,savings,postgraduate,1,1
+GTCO00025,33,785256.0,33.0,1,243389,1,94,79,0,Lagos,current,postgraduate,0,2
+GTCO00026,43,119163.0,13.0,2,120142,3,66,61,1,Lagos,savings,undergraduate,0,0
+GTCO00027,46,535853.0,31.0,1,96736,1,37,177,1,Ibadan,savings,secondary,0,2
+GTCO00028,48,111934.0,24.0,0,56924,4,89,128,1,Ibadan,savings,undergraduate,0,0
+GTCO00029,63,780255.0,15.0,2,8726,3,39,147,1,Ibadan,current,undergraduate,0,1
+GTCO00030,49,485523.0,29.0,3,356296,5,56,111,1,Kano,premium,undergraduate,1,1
+GTCO00031,37,514137.0,8.0,0,32723,4,38,226,1,Ibadan,current,secondary,1,0
+GTCO00032,36,65486.0,5.0,0,394113,5,45,24,1,Lagos,savings,secondary,0,0
+GTCO00033,24,199407.0,29.0,3,239182,2,55,70,1,Ibadan,current,undergraduate,0,2
+GTCO00034,58,710308.0,4.0,3,367638,4,51,71,1,Abuja,savings,undergraduate,0,1
+GTCO00035,28,687083.0,12.0,1,145180,2,86,167,1,Ibadan,savings,undergraduate,0,2
+GTCO00036,42,280184.0,2.0,2,213786,4,62,235,0,Kano,savings,secondary,1,0
+GTCO00037,30,726490.0,27.0,3,40643,4,79,51,0,Abuja,savings,undergraduate,0,2
+GTCO00038,60,409652.0,31.0,3,167396,2,61,143,0,Lagos,current,postgraduate,1,1
+GTCO00039,39,702612.0,26.0,2,371040,3,27,164,1,Lagos,current,postgraduate,1,2
+GTCO00040,25,382710.0,27.0,3,219432,1,52,111,1,Port Harcourt,premium,undergraduate,0,2
+GTCO00041,46,257775.0,5.0,3,144999,5,26,88,1,Abuja,current,undergraduate,1,0
+GTCO00042,35,349336.0,20.0,1,360824,4,21,55,1,Port Harcourt,current,secondary,0,1
+GTCO00043,30,668364.0,11.0,0,363690,5,73,125,1,Abuja,savings,undergraduate,0,0
+GTCO00044,47,149780.0,10.0,0,420659,2,112,89,0,Abuja,savings,undergraduate,0,0
+GTCO00045,23,212617.0,6.0,0,84973,5,15,181,1,Kano,current,undergraduate,0,0
+GTCO00046,41,605977.0,8.0,0,330593,2,98,133,1,Port Harcourt,savings,undergraduate,0,2
+GTCO00047,49,410605.0,23.0,3,114834,5,19,44,1,Kano,current,secondary,1,1
+GTCO00048,28,593636.0,26.0,2,241386,1,95,100,0,Abuja,savings,secondary,0,2
+GTCO00049,29,98102.0,12.0,2,474959,1,39,162,1,Lagos,savings,undergraduate,0,2
+GTCO00050,56,134460.0,26.0,1,458449,1,37,111,1,Abuja,savings,secondary,0,1
+GTCO00051,35,424778.0,13.0,1,292681,1,88,53,1,Kano,savings,secondary,0,1
+GTCO00052,38,149930.0,18.0,3,499509,1,20,87,1,Port Harcourt,savings,postgraduate,0,1
+GTCO00053,57,591089.0,25.0,2,344720,1,38,176,1,Port Harcourt,current,undergraduate,0,1
+GTCO00054,61,687438.0,33.0,2,112522,2,70,129,0,Kano,savings,undergraduate,1,1
+GTCO00055,25,787627.0,12.0,0,27612,4,103,238,1,Port Harcourt,current,postgraduate,0,2
+GTCO00056,23,239208.0,4.0,3,230049,5,44,23,1,Ibadan,savings,postgraduate,0,0
+GTCO00057,27,214697.0,5.0,3,273615,1,32,46,1,Lagos,savings,undergraduate,1,1
+GTCO00058,63,273945.0,8.0,0,171703,2,51,141,1,Lagos,savings,postgraduate,0,0
+GTCO00059,25,291915.0,28.0,3,245069,2,43,105,0,Lagos,current,undergraduate,0,2
+GTCO00060,50,787952.0,,3,228131,2,74,70,0,Port Harcourt,savings,undergraduate,0,1
+GTCO00061,39,268124.0,9.0,1,36348,4,77,131,1,Port Harcourt,current,undergraduate,1,0
+GTCO00062,47,497477.0,29.0,2,200804,5,24,94,1,Abuja,savings,undergraduate,1,1
+GTCO00063,55,585830.0,14.0,3,268321,4,5,193,1,Abuja,current,undergraduate,0,0
+GTCO00064,31,343821.0,22.0,1,140832,3,76,26,0,Lagos,savings,undergraduate,1,1
+GTCO00065,57,237804.0,11.0,2,299923,2,91,127,1,Ibadan,current,secondary,0,0
+GTCO00066,35,765703.0,23.0,0,288780,3,67,229,1,Abuja,current,undergraduate,0,2
+GTCO00067,52,99081.0,1.0,1,86889,1,71,143,1,Abuja,premium,secondary,1,0
+GTCO00068,36,778216.0,21.0,1,58551,1,8,113,0,Port Harcourt,savings,undergraduate,1,1
+GTCO00069,29,415249.0,26.0,2,409772,4,62,100,1,Ibadan,savings,undergraduate,0,2
+GTCO00070,35,,23.0,0,425814,5,29,141,1,Lagos,savings,undergraduate,0,0
+GTCO00071,44,577313.0,1.0,1,147635,3,51,230,0,Abuja,current,undergraduate,1,0
+GTCO00072,61,274532.0,15.0,3,51819,5,42,181,1,Ibadan,current,postgraduate,1,0
+GTCO00073,42,672380.0,21.0,3,340914,4,19,19,1,Ibadan,current,undergraduate,1,1
+GTCO00074,37,579332.0,9.0,3,489271,1,67,101,1,Lagos,savings,undergraduate,0,2
+GTCO00075,39,376837.0,9.0,0,425182,5,25,84,1,Ibadan,savings,undergraduate,0,0
+GTCO00076,45,349106.0,10.0,1,217781,5,103,106,0,Ibadan,savings,secondary,0,0
+GTCO00077,47,88295.0,26.0,3,458105,1,61,216,0,Ibadan,premium,secondary,1,2
+GTCO00078,46,73807.0,25.0,0,163059,3,57,154,1,Abuja,current,undergraduate,0,0
+GTCO00079,62,495564.0,26.0,3,345858,1,50,21,0,Lagos,premium,undergraduate,1,1
+GTCO00080,50,217504.0,11.0,2,194420,5,18,167,1,Ibadan,savings,undergraduate,0,0
+GTCO00081,36,298067.0,2.0,1,29596,3,104,233,1,Ibadan,current,postgraduate,1,0
+GTCO00082,22,545008.0,7.0,1,431390,3,80,87,1,Abuja,current,secondary,1,2
+GTCO00083,46,752440.0,18.0,0,331250,1,21,10,1,Lagos,savings,secondary,0,1
+GTCO00084,28,454540.0,27.0,0,468183,5,43,30,1,Port Harcourt,current,postgraduate,0,1
+GTCO00085,30,577923.0,34.0,1,64182,4,13,7,1,Abuja,premium,secondary,0,1
+GTCO00086,45,226981.0,27.0,3,491516,5,103,147,1,Lagos,premium,undergraduate,0,2
+GTCO00087,22,79870.0,17.0,3,354307,2,81,103,1,Ibadan,current,undergraduate,0,2
+GTCO00088,29,263196.0,24.0,2,306454,4,83,166,0,Lagos,savings,undergraduate,1,2
+GTCO00089,45,308683.0,25.0,3,323232,3,86,120,1,Lagos,savings,secondary,0,2
+GTCO00090,32,294677.0,7.0,0,133803,4,119,149,1,Lagos,premium,secondary,0,0
+GTCO00091,38,,6.0,0,144978,3,101,66,1,Port Harcourt,savings,secondary,0,0
+GTCO00092,29,703162.0,24.0,3,304058,3,10,93,1,Lagos,current,undergraduate,0,2
+GTCO00093,56,508345.0,33.0,0,377494,4,95,119,1,Port Harcourt,current,undergraduate,0,1
+GTCO00094,56,547462.0,29.0,1,50379,3,27,100,1,Ibadan,current,secondary,0,1
+GTCO00095,54,599773.0,22.0,1,476828,3,63,13,0,Port Harcourt,premium,undergraduate,0,1
+GTCO00096,26,146188.0,26.0,3,250900,2,95,56,1,Ibadan,savings,postgraduate,1,2
+GTCO00097,63,589036.0,28.0,1,263517,5,102,175,1,Ibadan,savings,secondary,0,0
+GTCO00098,60,724795.0,21.0,1,435866,5,50,49,1,Port Harcourt,savings,undergraduate,0,1
+GTCO00099,62,708249.0,7.0,2,445097,2,42,142,1,Abuja,savings,undergraduate,1,1
+GTCO00100,49,90355.0,17.0,2,313557,4,18,151,0,Kano,savings,undergraduate,0,0
+GTCO00101,28,771131.0,20.0,1,142084,1,104,141,1,Lagos,savings,undergraduate,0,2
+GTCO00102,30,511015.0,20.0,3,186187,1,76,233,1,Kano,current,undergraduate,1,2
+GTCO00103,29,466332.0,22.0,2,274295,1,66,222,1,Lagos,premium,postgraduate,1,2
+GTCO00104,33,216542.0,28.0,0,62716,2,39,7,1,Lagos,savings,postgraduate,0,1
+GTCO00105,55,233416.0,7.0,0,360891,2,23,211,1,Ibadan,savings,undergraduate,1,0
+GTCO00106,54,365062.0,1.0,0,228725,3,34,186,0,Lagos,premium,undergraduate,1,0
+GTCO00107,44,623586.0,32.0,3,172450,1,82,22,1,Lagos,savings,undergraduate,0,1
+GTCO00108,45,561708.0,13.0,1,178724,4,88,171,1,Port Harcourt,savings,undergraduate,0,0
+GTCO00109,58,121629.0,30.0,0,208502,4,117,48,0,Kano,savings,undergraduate,0,0
+GTCO00110,56,388184.0,23.0,3,149539,1,29,14,0,Port Harcourt,current,secondary,1,1
+GTCO00111,61,552734.0,19.0,2,429226,1,44,72,0,Lagos,savings,undergraduate,1,1
+GTCO00112,43,350160.0,32.0,1,126999,1,92,19,0,Ibadan,premium,undergraduate,1,1
+GTCO00113,48,608248.0,30.0,2,119793,2,18,117,1,Port Harcourt,savings,undergraduate,0,1
+GTCO00114,56,273920.0,29.0,3,452907,2,30,149,1,Port Harcourt,current,postgraduate,0,1
+GTCO00115,22,302804.0,29.0,0,462373,2,106,156,1,Abuja,savings,secondary,0,2
+GTCO00116,56,436965.0,30.0,0,375321,5,91,50,1,Lagos,savings,undergraduate,1,1
+GTCO00117,58,520857.0,16.0,3,17289,4,26,110,1,Ibadan,current,secondary,1,1
+GTCO00118,35,564492.0,19.0,0,181048,4,52,238,1,Port Harcourt,current,undergraduate,0,0
+GTCO00119,24,713983.0,18.0,1,179668,3,87,54,1,Port Harcourt,current,undergraduate,0,2
+GTCO00120,22,475916.0,1.0,3,421387,2,114,98,1,Ibadan,current,undergraduate,0,2
+GTCO00121,26,188148.0,14.0,2,236513,5,55,72,1,Lagos,premium,undergraduate,0,0
+GTCO00122,47,546261.0,2.0,3,262368,5,7,185,1,Abuja,current,undergraduate,1,0
+GTCO00123,35,415540.0,28.0,1,91365,4,46,230,0,Port Harcourt,current,undergraduate,1,0
+GTCO00124,60,252714.0,30.0,1,235662,2,23,104,0,Abuja,savings,undergraduate,0,1
+GTCO00125,48,791899.0,,3,381158,3,77,77,1,Kano,savings,undergraduate,1,1
+GTCO00126,30,343876.0,1.0,3,180211,2,32,163,1,Lagos,savings,postgraduate,1,2
+GTCO00127,36,319747.0,8.0,0,184785,1,88,192,1,Kano,current,undergraduate,1,2
+GTCO00128,36,675650.0,29.0,1,427950,2,49,218,1,Kano,savings,secondary,1,2
+GTCO00129,47,483570.0,3.0,3,77588,1,75,153,1,Kano,savings,undergraduate,1,2
+GTCO00130,63,335987.0,32.0,3,68646,1,82,145,1,Lagos,premium,postgraduate,0,2
+GTCO00131,34,698353.0,10.0,1,270798,3,67,157,1,Lagos,premium,undergraduate,1,2
+GTCO00132,53,77640.0,10.0,3,487238,4,77,205,1,Ibadan,premium,secondary,1,0
+GTCO00133,60,112528.0,19.0,0,285887,2,23,194,1,Abuja,savings,undergraduate,0,0
+GTCO00134,53,319214.0,34.0,1,315512,1,51,211,1,Abuja,current,undergraduate,0,2
+GTCO00135,25,561108.0,33.0,0,226097,2,18,181,1,Ibadan,savings,secondary,0,2
+GTCO00136,51,694421.0,23.0,0,210244,4,42,183,0,Ibadan,savings,undergraduate,0,0
+GTCO00137,58,428501.0,28.0,0,404657,4,57,208,1,Kano,savings,postgraduate,1,0
+GTCO00138,44,784226.0,32.0,0,124735,5,65,221,0,Ibadan,savings,undergraduate,0,0
+GTCO00139,60,210159.0,7.0,1,160683,4,40,84,1,Port Harcourt,savings,undergraduate,1,0
+GTCO00140,36,232502.0,29.0,0,387035,3,44,94,1,Abuja,current,undergraduate,0,0
+GTCO00141,64,215576.0,8.0,0,112971,1,85,181,0,Ibadan,savings,secondary,1,0
+GTCO00142,50,71023.0,1.0,3,17149,5,34,177,0,Port Harcourt,current,postgraduate,0,0
+GTCO00143,57,605735.0,3.0,1,367246,3,13,6,1,Port Harcourt,current,undergraduate,0,1
+GTCO00144,34,448043.0,24.0,1,326333,2,68,137,1,Port Harcourt,savings,undergraduate,0,2
+GTCO00145,53,346103.0,23.0,2,243976,1,37,111,0,Port Harcourt,savings,undergraduate,1,1
+GTCO00146,28,126203.0,8.0,1,419891,4,56,165,1,Kano,savings,undergraduate,0,0
+GTCO00147,43,220775.0,3.0,1,338175,1,93,50,0,Port Harcourt,current,undergraduate,0,1
+GTCO00148,49,69337.0,33.0,2,47668,2,18,75,1,Kano,savings,secondary,1,1
+GTCO00149,23,,28.0,1,411889,5,79,74,1,Kano,savings,postgraduate,0,2
+GTCO00150,63,574723.0,8.0,1,474882,5,57,118,1,Port Harcourt,savings,postgraduate,1,0
+GTCO00151,27,383673.0,34.0,1,93204,5,103,175,1,Abuja,current,undergraduate,1,2
+GTCO00152,49,424167.0,32.0,1,216830,4,109,83,1,Port Harcourt,premium,postgraduate,0,1
+GTCO00153,49,406809.0,24.0,2,201501,3,63,83,1,Port Harcourt,savings,secondary,1,1
+GTCO00154,41,690075.0,14.0,1,421885,3,82,115,0,Port Harcourt,current,undergraduate,0,2
+GTCO00155,51,747281.0,32.0,1,170140,1,98,227,0,Abuja,current,undergraduate,1,2
+GTCO00156,32,355451.0,16.0,2,224861,4,45,98,0,Lagos,premium,undergraduate,0,0
+GTCO00157,49,480571.0,4.0,3,145507,5,72,74,1,Lagos,current,undergraduate,1,0
+GTCO00158,46,187016.0,21.0,0,230160,5,72,149,0,Kano,current,undergraduate,1,0
+GTCO00159,60,604447.0,14.0,3,188321,2,96,65,1,Kano,current,secondary,1,1
+GTCO00160,54,557562.0,31.0,2,42384,2,12,40,1,Abuja,premium,undergraduate,1,1
+GTCO00161,22,762965.0,18.0,0,86929,5,6,69,1,Ibadan,savings,secondary,1,0
+GTCO00162,48,443934.0,7.0,2,395103,5,109,189,1,Lagos,savings,undergraduate,1,0
+GTCO00163,34,377428.0,10.0,2,81153,4,114,71,1,Kano,savings,secondary,0,2
+GTCO00164,62,379187.0,7.0,1,240128,3,90,15,1,Lagos,current,secondary,1,1
+GTCO00165,24,750907.0,33.0,0,80388,2,45,177,1,Abuja,current,undergraduate,0,2
+GTCO00166,60,142844.0,23.0,1,36401,3,59,191,1,Abuja,savings,undergraduate,0,0
+GTCO00167,27,611820.0,21.0,0,207903,4,20,33,1,Ibadan,current,postgraduate,0,1
+GTCO00168,29,225421.0,19.0,2,124503,5,97,210,0,Ibadan,savings,undergraduate,0,2
+GTCO00169,48,182402.0,19.0,2,237601,3,66,116,1,Abuja,savings,undergraduate,0,0
+GTCO00170,30,178012.0,29.0,3,132834,5,117,226,1,Kano,premium,postgraduate,1,2
+GTCO00171,58,498661.0,18.0,0,39084,5,52,24,0,Lagos,savings,undergraduate,1,1
+GTCO00172,54,458929.0,2.0,1,256459,1,34,95,1,Port Harcourt,savings,secondary,0,1
+GTCO00173,63,640466.0,1.0,3,115641,3,16,216,0,Ibadan,current,undergraduate,1,0
+GTCO00174,45,633695.0,5.0,3,110111,3,39,173,1,Port Harcourt,current,postgraduate,1,2
+GTCO00175,36,523556.0,20.0,3,454042,5,15,69,0,Kano,savings,undergraduate,1,1
+GTCO00176,53,635278.0,11.0,1,434667,4,68,56,1,Ibadan,current,undergraduate,1,1
+GTCO00177,53,189473.0,2.0,3,143299,1,114,140,1,Port Harcourt,current,secondary,1,2
+GTCO00178,45,538007.0,3.0,1,167982,5,54,44,1,Kano,savings,secondary,0,0
+GTCO00179,62,477009.0,23.0,3,303185,2,89,66,1,Lagos,savings,undergraduate,1,1
+GTCO00180,33,378714.0,12.0,1,356064,2,25,128,0,Kano,current,undergraduate,0,0
+GTCO00181,60,286156.0,20.0,2,332825,1,73,23,1,Ibadan,savings,secondary,1,1
+GTCO00182,23,228964.0,5.0,2,239386,4,52,210,0,Abuja,premium,postgraduate,1,0
+GTCO00183,24,585303.0,30.0,2,348715,5,24,206,1,Lagos,current,undergraduate,0,2
+GTCO00184,58,121813.0,9.0,2,201553,3,105,196,1,Port Harcourt,premium,undergraduate,1,0
+GTCO00185,38,87712.0,34.0,2,466792,1,71,171,1,Ibadan,savings,postgraduate,0,2
+GTCO00186,23,684785.0,22.0,3,265337,4,48,154,1,Abuja,premium,secondary,0,2
+GTCO00187,23,172816.0,24.0,3,132556,3,37,37,1,Kano,savings,undergraduate,1,2
+GTCO00188,49,188778.0,17.0,3,200246,2,77,186,1,Abuja,savings,undergraduate,0,2
+GTCO00189,44,646580.0,10.0,1,31160,2,65,32,1,Ibadan,savings,postgraduate,1,1
+GTCO00190,58,345977.0,30.0,1,251242,3,13,59,1,Ibadan,savings,undergraduate,0,1
+GTCO00191,53,195230.0,23.0,1,22633,1,72,224,0,Abuja,current,undergraduate,1,2
+GTCO00192,54,778040.0,32.0,1,493096,2,39,49,0,Kano,savings,postgraduate,0,1
+GTCO00193,22,329114.0,17.0,2,284158,5,85,165,0,Abuja,savings,secondary,1,2
+GTCO00194,40,394618.0,17.0,2,347676,3,102,21,1,Ibadan,current,postgraduate,0,1
+GTCO00195,23,211456.0,14.0,2,54104,3,92,116,0,Ibadan,savings,postgraduate,0,2
+GTCO00196,47,165570.0,9.0,0,439837,2,100,10,1,Port Harcourt,current,secondary,0,1
+GTCO00197,53,330846.0,2.0,3,344375,1,69,28,1,Port Harcourt,savings,undergraduate,0,1
+GTCO00198,27,60404.0,25.0,1,73388,5,12,115,0,Lagos,current,secondary,0,0
+GTCO00199,53,763286.0,9.0,1,21014,1,49,234,1,Ibadan,current,undergraduate,0,2
+GTCO00200,25,334907.0,22.0,2,97578,4,91,73,1,Port Harcourt,savings,undergraduate,1,2
+GTCO00201,32,,4.0,1,169827,4,51,32,0,Abuja,savings,undergraduate,1,0
+GTCO00202,38,775460.0,26.0,1,45390,2,44,137,1,Kano,savings,postgraduate,0,2
+GTCO00203,59,725220.0,29.0,3,290855,2,80,69,0,Abuja,current,undergraduate,1,1
+GTCO00204,45,295365.0,34.0,2,96658,2,58,67,1,Kano,savings,undergraduate,0,1
+GTCO00205,26,402786.0,,3,62993,4,80,38,1,Port Harcourt,savings,postgraduate,0,2
+GTCO00206,55,110612.0,11.0,0,210768,1,50,27,1,Lagos,savings,postgraduate,1,1
+GTCO00207,27,260244.0,6.0,0,163285,1,51,39,1,Abuja,savings,secondary,0,1
+GTCO00208,43,64809.0,18.0,0,251860,2,19,3,1,Abuja,savings,postgraduate,1,1
+GTCO00209,32,223273.0,21.0,2,456000,5,109,145,1,Abuja,current,secondary,1,2
+GTCO00210,37,768690.0,34.0,1,274565,1,23,39,0,Kano,savings,postgraduate,0,1
+GTCO00211,54,204528.0,17.0,2,223008,4,30,143,0,Port Harcourt,savings,undergraduate,0,0
+GTCO00212,30,566964.0,25.0,2,497289,3,56,234,1,Abuja,current,secondary,0,2
+GTCO00213,27,509613.0,12.0,1,22727,3,97,138,1,Abuja,current,undergraduate,0,2
+GTCO00214,37,98765.0,23.0,3,379562,3,26,135,1,Lagos,savings,undergraduate,1,2
+GTCO00215,50,376076.0,22.0,0,9358,5,108,190,1,Lagos,savings,undergraduate,0,0
+GTCO00216,24,606237.0,21.0,3,332252,2,25,130,1,Port Harcourt,savings,secondary,1,2
+GTCO00217,41,261152.0,27.0,0,262681,4,55,203,0,Port Harcourt,premium,undergraduate,0,0
+GTCO00218,57,359888.0,31.0,2,99018,5,42,129,1,Ibadan,savings,postgraduate,0,0
+GTCO00219,40,760903.0,6.0,0,391601,4,24,3,1,Lagos,premium,undergraduate,1,1
+GTCO00220,47,152193.0,27.0,2,430333,4,33,166,0,Ibadan,current,secondary,1,0
+GTCO00221,24,96187.0,34.0,3,486916,2,55,37,0,Kano,current,undergraduate,0,2
+GTCO00222,40,565950.0,12.0,2,299054,3,8,196,0,Ibadan,savings,secondary,0,0
+GTCO00223,41,198311.0,7.0,3,131888,2,59,193,1,Abuja,savings,postgraduate,1,2
+GTCO00224,53,568153.0,10.0,1,234104,5,75,106,1,Ibadan,savings,postgraduate,1,0
+GTCO00225,28,249089.0,17.0,1,322898,5,96,25,0,Port Harcourt,savings,undergraduate,1,0
+GTCO00226,62,646165.0,26.0,1,198510,5,32,11,0,Kano,current,undergraduate,1,1
+GTCO00227,54,496341.0,21.0,2,114847,2,8,36,0,Abuja,premium,undergraduate,0,1
+GTCO00228,61,372066.0,28.0,1,427587,4,26,176,1,Ibadan,current,undergraduate,1,0
+GTCO00229,60,678362.0,2.0,0,449717,4,80,208,1,Kano,current,postgraduate,0,0
+GTCO00230,39,747409.0,1.0,3,459162,1,49,130,1,Kano,savings,undergraduate,1,2
+GTCO00231,61,621419.0,26.0,3,305611,5,71,6,1,Abuja,savings,undergraduate,0,1
+GTCO00232,22,700053.0,29.0,0,415841,4,90,160,1,Ibadan,savings,undergraduate,0,2
+GTCO00233,32,691172.0,21.0,2,301037,1,112,225,1,Kano,current,undergraduate,0,2
+GTCO00234,49,185917.0,11.0,2,81329,4,70,104,1,Kano,premium,postgraduate,1,0
+GTCO00235,46,359770.0,11.0,3,36007,5,92,77,0,Lagos,current,undergraduate,1,0
+GTCO00236,44,758168.0,34.0,1,489518,3,38,101,0,Kano,savings,undergraduate,1,1
+GTCO00237,52,541680.0,24.0,2,175604,5,95,74,0,Lagos,savings,secondary,1,1
+GTCO00238,51,341342.0,22.0,2,321397,2,59,5,0,Ibadan,current,undergraduate,0,1
+GTCO00239,63,599542.0,5.0,0,17323,4,109,144,1,Ibadan,savings,undergraduate,0,0
+GTCO00240,56,104238.0,33.0,0,378479,4,5,190,1,Ibadan,current,secondary,0,0
+GTCO00241,28,61252.0,20.0,1,117356,2,76,207,0,Port Harcourt,current,secondary,0,2
+GTCO00242,37,545450.0,19.0,2,115944,2,91,175,1,Ibadan,current,undergraduate,0,2
+GTCO00243,47,375826.0,17.0,2,209451,3,42,226,1,Kano,savings,undergraduate,1,0
+GTCO00244,23,381638.0,34.0,0,412426,4,10,36,0,Abuja,savings,undergraduate,0,1
+GTCO00245,22,665605.0,9.0,2,283600,4,90,47,1,Lagos,savings,secondary,1,2
+GTCO00246,33,387359.0,26.0,3,36367,3,29,63,1,Port Harcourt,savings,undergraduate,0,1
+GTCO00247,26,662875.0,2.0,0,59624,1,86,85,1,Ibadan,savings,secondary,0,2
+GTCO00248,58,66949.0,9.0,1,408322,3,21,125,0,Ibadan,current,undergraduate,1,0
+GTCO00249,53,377537.0,9.0,0,239565,5,65,104,0,Abuja,current,secondary,0,0
+GTCO00250,30,788913.0,17.0,2,73008,4,16,18,1,Abuja,savings,secondary,0,1
+GTCO00251,62,722301.0,1.0,1,393070,2,10,68,0,Port Harcourt,savings,secondary,1,1
+GTCO00252,56,610222.0,25.0,0,382539,5,94,170,1,Lagos,savings,undergraduate,1,0
+GTCO00253,40,515102.0,25.0,3,121492,4,31,147,1,Ibadan,savings,secondary,1,2
+GTCO00254,37,397889.0,3.0,3,77240,3,12,121,1,Port Harcourt,current,undergraduate,1,0
+GTCO00255,24,536467.0,30.0,0,331459,5,87,164,1,Kano,savings,undergraduate,0,2
+GTCO00256,41,416600.0,34.0,3,467465,4,110,236,1,Kano,savings,undergraduate,0,2
+GTCO00257,45,375557.0,12.0,3,206659,1,69,126,0,Port Harcourt,savings,undergraduate,1,2
+GTCO00258,54,364462.0,19.0,3,277900,1,61,146,1,Ibadan,premium,postgraduate,0,2
+GTCO00259,45,310875.0,17.0,1,466227,2,97,104,1,Port Harcourt,current,secondary,0,2
+GTCO00260,32,523389.0,10.0,3,303522,4,113,190,1,Ibadan,savings,undergraduate,0,2
+GTCO00261,29,130390.0,12.0,3,140327,1,117,68,0,Abuja,current,secondary,1,2
+GTCO00262,57,767689.0,16.0,3,412700,3,103,196,1,Port Harcourt,current,secondary,1,2
+GTCO00263,59,313490.0,24.0,1,130703,4,44,220,1,Ibadan,premium,undergraduate,0,0
+GTCO00264,61,627376.0,19.0,0,323693,3,18,15,0,Port Harcourt,savings,undergraduate,1,1
+GTCO00265,41,307940.0,,2,170575,3,39,186,0,Port Harcourt,premium,postgraduate,1,0
+GTCO00266,56,425340.0,31.0,3,340938,1,52,113,0,Ibadan,premium,undergraduate,0,1
+GTCO00267,46,493027.0,21.0,0,498948,4,113,161,1,Ibadan,premium,postgraduate,0,0
+GTCO00268,56,568041.0,17.0,3,312257,5,88,36,0,Lagos,current,secondary,1,1
+GTCO00269,46,377623.0,23.0,1,79069,1,60,41,0,Port Harcourt,current,secondary,1,1
+GTCO00270,50,276464.0,16.0,0,234189,1,53,197,1,Kano,savings,secondary,0,0
+GTCO00271,39,570736.0,6.0,1,403465,4,17,138,0,Port Harcourt,current,secondary,1,0
+GTCO00272,39,377267.0,8.0,3,256051,4,65,217,0,Port Harcourt,current,undergraduate,1,2
+GTCO00273,23,710199.0,25.0,3,417417,3,106,208,0,Ibadan,current,undergraduate,0,2
+GTCO00274,56,283777.0,18.0,1,130541,4,53,122,0,Port Harcourt,savings,secondary,1,0
+GTCO00275,37,65569.0,25.0,2,194648,3,50,128,0,Port Harcourt,current,postgraduate,1,2
+GTCO00276,62,654124.0,12.0,1,261353,1,117,57,1,Kano,current,postgraduate,1,1
+GTCO00277,57,688861.0,15.0,3,276830,2,66,29,0,Ibadan,savings,undergraduate,1,1
+GTCO00278,54,489802.0,26.0,1,320507,5,12,120,0,Port Harcourt,current,secondary,1,0
+GTCO00279,25,318090.0,26.0,2,364687,1,47,223,1,Abuja,current,secondary,1,2
+GTCO00280,54,727375.0,32.0,1,136733,4,24,233,1,Lagos,current,secondary,0,0
+GTCO00281,35,105002.0,10.0,2,180915,5,101,55,1,Kano,savings,secondary,1,0
+GTCO00282,42,721614.0,16.0,2,100673,2,94,41,1,Port Harcourt,savings,undergraduate,0,1
+GTCO00283,41,739574.0,7.0,1,459179,2,43,67,0,Abuja,premium,secondary,1,1
+GTCO00284,29,558870.0,17.0,1,47828,3,89,147,1,Port Harcourt,savings,undergraduate,1,2
+GTCO00285,28,271791.0,23.0,0,315748,5,53,235,1,Port Harcourt,current,postgraduate,0,0
+GTCO00286,24,262846.0,26.0,3,277670,3,68,160,1,Ibadan,savings,undergraduate,1,2
+GTCO00287,38,721450.0,21.0,2,336054,1,66,183,1,Ibadan,current,postgraduate,0,2
+GTCO00288,54,726997.0,22.0,0,30592,5,110,15,0,Ibadan,savings,secondary,1,1
+GTCO00289,33,,7.0,1,296126,1,111,23,1,Abuja,current,undergraduate,0,1
+GTCO00290,43,84071.0,,3,267351,3,58,149,0,Port Harcourt,savings,undergraduate,1,2
+GTCO00291,43,642531.0,15.0,0,237041,5,109,55,1,Lagos,savings,secondary,0,0
+GTCO00292,51,232312.0,7.0,2,355877,3,13,21,1,Kano,savings,secondary,0,1
+GTCO00293,59,317218.0,,0,235008,5,92,59,1,Ibadan,savings,undergraduate,0,0
+GTCO00294,59,274879.0,8.0,2,129982,3,41,27,0,Ibadan,premium,undergraduate,1,1
+GTCO00295,29,423714.0,23.0,1,261911,2,53,216,1,Port Harcourt,premium,undergraduate,1,2
+GTCO00296,48,486650.0,29.0,3,73619,3,45,33,1,Port Harcourt,savings,undergraduate,0,1
+GTCO00297,48,391868.0,18.0,3,165400,2,21,83,1,Abuja,current,undergraduate,1,1
+GTCO00298,55,613020.0,31.0,3,313623,3,92,185,1,Abuja,savings,secondary,1,2
+GTCO00299,42,705753.0,30.0,1,156175,5,25,25,1,Ibadan,current,undergraduate,0,1
+GTCO00300,51,477170.0,18.0,2,175963,5,55,34,1,Port Harcourt,current,secondary,1,1
+GTCO00301,54,117108.0,17.0,1,146826,5,63,192,0,Lagos,premium,secondary,0,0
+GTCO00302,49,540721.0,14.0,3,236055,4,43,76,1,Kano,savings,postgraduate,0,1
+GTCO00303,54,171195.0,31.0,1,348581,1,59,12,0,Port Harcourt,current,undergraduate,0,1
+GTCO00304,26,96668.0,24.0,1,103540,5,45,230,1,Port Harcourt,savings,undergraduate,0,0
+GTCO00305,40,345205.0,34.0,1,340126,2,43,202,1,Abuja,premium,undergraduate,1,2
+GTCO00306,25,401396.0,3.0,2,107747,5,17,56,1,Kano,savings,undergraduate,1,0
+GTCO00307,56,624037.0,26.0,0,191994,4,68,54,0,Ibadan,current,secondary,0,1
+GTCO00308,38,190560.0,23.0,0,315375,2,15,150,1,Port Harcourt,current,secondary,0,0
+GTCO00309,49,426824.0,15.0,1,34301,4,114,162,1,Ibadan,current,secondary,0,0
+GTCO00310,51,207979.0,4.0,0,227724,2,23,116,1,Port Harcourt,savings,undergraduate,0,0
+GTCO00311,50,209849.0,29.0,0,198783,3,15,16,1,Ibadan,premium,undergraduate,0,1
+GTCO00312,27,111745.0,22.0,1,177395,1,81,180,0,Kano,savings,undergraduate,1,2
+GTCO00313,56,430608.0,25.0,1,23752,1,50,158,1,Abuja,current,undergraduate,0,1
+GTCO00314,62,151865.0,13.0,3,496128,4,49,112,1,Kano,savings,postgraduate,1,0
+GTCO00315,58,272890.0,18.0,0,218277,1,5,55,0,Lagos,savings,secondary,1,1
+GTCO00316,45,83624.0,33.0,2,365596,4,44,154,0,Abuja,current,undergraduate,1,0
+GTCO00317,50,83321.0,16.0,1,149467,4,112,81,1,Kano,savings,undergraduate,0,0
+GTCO00318,52,463704.0,2.0,3,222029,4,23,24,1,Lagos,savings,undergraduate,1,1
+GTCO00319,56,234293.0,34.0,2,388381,1,80,32,1,Port Harcourt,savings,postgraduate,0,1
+GTCO00320,54,246717.0,30.0,0,61273,4,76,193,1,Port Harcourt,savings,secondary,0,0
+GTCO00321,42,440975.0,13.0,3,263503,1,76,6,0,Ibadan,current,postgraduate,1,1
+GTCO00322,53,243868.0,13.0,1,96878,4,65,207,0,Abuja,premium,postgraduate,1,0
+GTCO00323,44,719792.0,18.0,2,272039,5,113,61,0,Port Harcourt,savings,secondary,0,1
+GTCO00324,54,155257.0,32.0,1,124968,4,16,217,0,Abuja,savings,undergraduate,1,0
+GTCO00325,24,648579.0,32.0,0,382844,2,65,10,1,Port Harcourt,savings,undergraduate,0,1
+GTCO00326,39,270176.0,29.0,2,81559,4,116,212,0,Ibadan,savings,postgraduate,0,2
+GTCO00327,46,250471.0,29.0,0,15699,3,37,14,1,Kano,current,secondary,0,1
+GTCO00328,63,532930.0,16.0,0,201133,4,49,121,1,Ibadan,current,undergraduate,0,0
+GTCO00329,52,578862.0,10.0,3,14715,2,94,161,1,Lagos,savings,undergraduate,0,2
+GTCO00330,24,535774.0,30.0,1,24169,2,107,208,1,Port Harcourt,savings,undergraduate,0,2
+GTCO00331,61,695605.0,25.0,2,123413,1,96,36,1,Lagos,savings,undergraduate,1,1
+GTCO00332,45,199789.0,20.0,0,414379,5,73,84,0,Lagos,current,undergraduate,1,0
+GTCO00333,53,449593.0,5.0,0,124264,4,12,100,1,Abuja,premium,postgraduate,0,0
+GTCO00334,43,133686.0,1.0,2,272926,1,29,129,0,Port Harcourt,savings,postgraduate,1,0
+GTCO00335,44,127661.0,30.0,0,224249,5,95,77,0,Lagos,savings,postgraduate,0,0
+GTCO00336,23,628535.0,3.0,3,129481,4,50,107,1,Kano,premium,secondary,0,2
+GTCO00337,48,305121.0,14.0,3,220400,3,91,206,0,Lagos,premium,undergraduate,1,2
+GTCO00338,63,732108.0,30.0,3,40585,4,34,51,0,Kano,savings,secondary,1,1
+GTCO00339,23,427257.0,4.0,3,297826,2,113,81,1,Abuja,savings,undergraduate,1,2
+GTCO00340,47,326765.0,18.0,0,183936,2,51,187,1,Lagos,savings,undergraduate,0,0
+GTCO00341,38,206106.0,25.0,2,397136,3,91,225,1,Ibadan,current,undergraduate,0,2
+GTCO00342,61,318930.0,1.0,2,351560,1,53,95,1,Abuja,savings,undergraduate,1,1
+GTCO00343,54,720482.0,15.0,2,453330,5,51,156,0,Kano,savings,postgraduate,1,0
+GTCO00344,30,508874.0,9.0,2,394954,4,88,20,1,Abuja,current,secondary,0,1
+GTCO00345,64,622926.0,15.0,1,43067,2,86,98,1,Lagos,savings,undergraduate,0,1
+GTCO00346,60,178033.0,24.0,2,178757,1,22,216,1,Port Harcourt,current,undergraduate,1,0
+GTCO00347,50,690265.0,4.0,1,258334,3,70,40,1,Port Harcourt,savings,secondary,0,1
+GTCO00348,63,673157.0,12.0,1,23073,2,72,211,0,Kano,savings,secondary,0,0
+GTCO00349,47,689474.0,6.0,3,41035,3,98,89,1,Kano,current,postgraduate,0,2
+GTCO00350,56,226926.0,24.0,1,201049,4,37,90,1,Port Harcourt,savings,postgraduate,0,0
+GTCO00351,46,630559.0,11.0,0,238782,5,40,52,0,Kano,premium,postgraduate,1,0
+GTCO00352,45,491734.0,13.0,1,95373,2,86,10,1,Abuja,current,postgraduate,0,1
+GTCO00353,34,433220.0,34.0,3,350506,2,105,171,1,Ibadan,savings,secondary,0,2
+GTCO00354,28,725627.0,25.0,1,95517,4,23,136,0,Ibadan,current,undergraduate,0,2
+GTCO00355,57,281897.0,7.0,0,70450,1,115,71,1,Abuja,savings,undergraduate,1,1
+GTCO00356,41,61062.0,4.0,0,15382,5,32,174,1,Ibadan,premium,undergraduate,0,0
+GTCO00357,22,307736.0,8.0,0,402653,2,44,123,1,Lagos,savings,undergraduate,1,0
+GTCO00358,29,634736.0,20.0,3,207043,5,88,66,0,Abuja,current,undergraduate,1,2
+GTCO00359,37,155462.0,29.0,3,462828,2,117,159,1,Kano,savings,undergraduate,1,2
+GTCO00360,35,459445.0,10.0,2,226427,5,101,158,0,Abuja,savings,undergraduate,1,2
+GTCO00361,33,510009.0,34.0,3,66929,3,80,141,1,Port Harcourt,current,secondary,0,2
+GTCO00362,44,632203.0,26.0,0,238483,2,119,123,0,Kano,current,undergraduate,1,2
+GTCO00363,36,326776.0,3.0,0,233590,5,19,67,1,Port Harcourt,savings,undergraduate,0,0
+GTCO00364,49,688880.0,,3,366008,1,45,109,1,Kano,savings,undergraduate,0,1
+GTCO00365,55,718956.0,5.0,1,148401,3,43,149,1,Ibadan,current,secondary,0,0
+GTCO00366,23,431923.0,5.0,3,261677,3,6,139,1,Abuja,premium,undergraduate,1,2
+GTCO00367,53,459384.0,23.0,3,292313,1,67,157,1,Lagos,savings,secondary,0,2
+GTCO00368,44,692387.0,9.0,0,92468,5,33,164,1,Kano,savings,undergraduate,0,0
+GTCO00369,43,591849.0,20.0,2,39594,4,109,174,0,Kano,savings,undergraduate,0,2
+GTCO00370,46,527010.0,18.0,0,475173,1,78,198,1,Port Harcourt,premium,undergraduate,0,2
+GTCO00371,43,666440.0,17.0,2,196703,5,70,102,0,Ibadan,savings,undergraduate,0,0
+GTCO00372,43,,24.0,0,50033,1,55,84,1,Port Harcourt,savings,undergraduate,0,1
+GTCO00373,63,446193.0,3.0,3,68133,1,79,145,0,Port Harcourt,current,undergraduate,1,1
+GTCO00374,27,,32.0,0,471381,2,81,53,1,Ibadan,savings,undergraduate,0,2
+GTCO00375,36,86069.0,13.0,0,78861,5,14,143,1,Lagos,savings,undergraduate,1,0
+GTCO00376,64,795265.0,25.0,0,188362,4,18,85,1,Port Harcourt,savings,undergraduate,0,1
+GTCO00377,58,597198.0,9.0,3,492247,2,86,179,0,Port Harcourt,savings,undergraduate,1,2
+GTCO00378,54,395623.0,4.0,3,298894,1,55,200,1,Kano,savings,secondary,1,2
+GTCO00379,29,530951.0,14.0,3,493371,1,77,114,1,Ibadan,current,undergraduate,0,2
+GTCO00380,26,141264.0,34.0,3,45461,1,43,58,1,Abuja,savings,undergraduate,0,2
+GTCO00381,60,83275.0,11.0,2,472016,5,32,206,1,Lagos,current,undergraduate,1,0
+GTCO00382,25,656562.0,3.0,2,83222,5,7,181,1,Lagos,current,undergraduate,1,0
+GTCO00383,27,534665.0,28.0,1,117020,2,88,167,1,Ibadan,current,undergraduate,0,2
+GTCO00384,53,422920.0,29.0,3,291370,4,74,147,1,Kano,savings,secondary,1,2
+GTCO00385,51,251076.0,9.0,2,273865,2,31,188,1,Kano,savings,undergraduate,0,0
+GTCO00386,56,254053.0,3.0,0,454370,3,6,217,1,Ibadan,savings,undergraduate,1,0
+GTCO00387,61,769913.0,25.0,3,25609,1,97,220,0,Kano,savings,undergraduate,0,2
+GTCO00388,37,632735.0,34.0,1,450346,1,42,159,0,Lagos,savings,secondary,0,2
+GTCO00389,34,659991.0,12.0,1,135513,1,7,163,0,Lagos,current,undergraduate,1,2
+GTCO00390,63,172581.0,9.0,1,208981,2,20,62,0,Abuja,savings,postgraduate,1,1
+GTCO00391,51,325956.0,15.0,0,109211,2,98,221,1,Ibadan,savings,secondary,1,0
+GTCO00392,40,481240.0,25.0,2,191321,1,44,219,1,Port Harcourt,savings,undergraduate,0,2
+GTCO00393,38,774016.0,5.0,0,447111,2,6,122,0,Port Harcourt,current,secondary,0,1
+GTCO00394,40,176421.0,11.0,3,492689,5,85,185,1,Abuja,savings,undergraduate,0,0
+GTCO00395,49,585893.0,34.0,1,403872,5,45,140,0,Abuja,current,undergraduate,1,0
+GTCO00396,47,524374.0,24.0,0,392009,2,16,177,1,Kano,savings,undergraduate,0,0
+GTCO00397,58,132303.0,15.0,0,341664,1,39,25,1,Abuja,premium,undergraduate,1,1
+GTCO00398,47,218211.0,8.0,2,461956,2,111,215,1,Abuja,premium,postgraduate,1,2
+GTCO00399,44,247210.0,5.0,2,331453,2,69,151,0,Port Harcourt,savings,secondary,1,0
+GTCO00400,30,204990.0,26.0,1,34984,2,59,237,1,Kano,savings,secondary,0,2
+GTCO00401,33,218518.0,18.0,0,123947,3,49,15,1,Abuja,savings,postgraduate,0,1
+GTCO00402,22,184040.0,6.0,0,209894,5,83,103,1,Abuja,savings,undergraduate,0,0
+GTCO00403,22,728406.0,13.0,2,10901,4,94,163,1,Kano,current,postgraduate,0,2
+GTCO00404,55,583138.0,28.0,0,167624,4,105,26,1,Ibadan,current,undergraduate,0,1
+GTCO00405,53,478034.0,5.0,0,227317,3,89,110,0,Kano,current,postgraduate,0,0
+GTCO00406,46,600677.0,13.0,0,298199,2,66,13,1,Port Harcourt,current,undergraduate,0,1
+GTCO00407,61,706465.0,17.0,2,173757,3,53,19,1,Ibadan,savings,undergraduate,1,1
+GTCO00408,22,363571.0,32.0,1,472181,3,99,198,1,Lagos,savings,postgraduate,1,2
+GTCO00409,37,744106.0,29.0,3,150788,1,29,177,0,Kano,current,undergraduate,0,2
+GTCO00410,60,182883.0,3.0,1,119099,5,27,27,1,Port Harcourt,savings,secondary,1,0
+GTCO00411,26,447952.0,34.0,3,16138,4,28,96,1,Ibadan,current,undergraduate,1,2
+GTCO00412,43,172221.0,27.0,0,171370,2,42,203,1,Kano,savings,secondary,0,0
+GTCO00413,50,320669.0,13.0,1,449328,4,32,23,0,Abuja,savings,secondary,1,1
+GTCO00414,24,585134.0,33.0,3,28429,4,25,86,1,Kano,premium,undergraduate,0,2
+GTCO00415,33,595242.0,6.0,2,55200,5,58,213,0,Lagos,savings,undergraduate,1,0
+GTCO00416,47,401383.0,24.0,2,207380,4,111,213,1,Kano,premium,undergraduate,1,2
+GTCO00417,37,304761.0,19.0,1,446460,4,22,142,1,Ibadan,premium,undergraduate,0,0
+GTCO00418,58,197541.0,16.0,1,253289,3,40,39,1,Ibadan,current,undergraduate,0,1
+GTCO00419,43,124323.0,28.0,0,250127,5,103,44,1,Kano,current,secondary,0,0
+GTCO00420,50,676210.0,33.0,1,368412,1,49,147,1,Ibadan,current,secondary,0,1
+GTCO00421,35,249139.0,13.0,0,241513,2,77,103,1,Abuja,premium,secondary,0,0
+GTCO00422,49,240448.0,25.0,0,22347,4,57,50,0,Kano,savings,undergraduate,0,0
+GTCO00423,26,760947.0,27.0,2,152992,2,106,105,1,Abuja,savings,secondary,1,2
+GTCO00424,51,295659.0,7.0,2,36822,1,34,30,1,Abuja,current,undergraduate,0,1
+GTCO00425,26,449678.0,5.0,3,444875,2,64,43,1,Port Harcourt,savings,undergraduate,0,2
+GTCO00426,33,,31.0,2,45108,1,112,101,0,Kano,savings,postgraduate,0,2
+GTCO00427,37,301983.0,23.0,2,396099,3,102,49,1,Ibadan,savings,secondary,0,2
+GTCO00428,47,,10.0,1,487315,4,36,148,1,Abuja,current,undergraduate,0,0
+GTCO00429,47,61917.0,32.0,2,12967,1,71,208,0,Port Harcourt,premium,undergraduate,1,2
+GTCO00430,42,342762.0,30.0,3,377863,2,71,229,1,Kano,savings,undergraduate,0,2
+GTCO00431,60,616542.0,31.0,1,16871,4,32,238,0,Kano,premium,postgraduate,1,0
+GTCO00432,57,427436.0,18.0,3,230371,3,48,107,1,Lagos,current,secondary,0,1
+GTCO00433,54,569930.0,2.0,2,213524,4,83,126,0,Lagos,current,secondary,1,0
+GTCO00434,51,631650.0,,3,210342,1,45,201,0,Abuja,current,postgraduate,1,2
+GTCO00435,58,342272.0,13.0,1,169685,3,67,235,1,Lagos,current,undergraduate,0,0
+GTCO00436,44,445925.0,29.0,0,33179,2,27,15,1,Abuja,savings,undergraduate,0,1
+GTCO00437,31,774743.0,12.0,3,256537,3,108,212,1,Ibadan,current,undergraduate,1,2
+GTCO00438,26,649833.0,2.0,3,188260,3,79,231,0,Abuja,savings,undergraduate,1,2
+GTCO00439,57,142180.0,,1,322243,5,52,143,1,Lagos,premium,postgraduate,0,0
+GTCO00440,55,672246.0,13.0,1,40262,3,36,102,1,Ibadan,premium,postgraduate,1,1
+GTCO00441,52,463081.0,27.0,3,345357,3,61,33,1,Lagos,savings,undergraduate,0,1
+GTCO00442,31,361953.0,17.0,2,384551,4,104,132,0,Abuja,savings,undergraduate,0,2
+GTCO00443,40,438892.0,31.0,3,416484,2,37,18,1,Port Harcourt,current,postgraduate,0,1
+GTCO00444,53,65287.0,34.0,1,476082,4,28,139,1,Kano,savings,secondary,0,0
+GTCO00445,22,317665.0,24.0,0,353413,4,43,75,1,Lagos,premium,secondary,0,0
+GTCO00446,26,68512.0,6.0,0,65545,1,38,168,0,Abuja,savings,postgraduate,1,0
+GTCO00447,25,716702.0,19.0,2,239555,4,60,205,1,Ibadan,savings,undergraduate,0,2
+GTCO00448,37,516292.0,30.0,3,228894,5,32,56,1,Lagos,premium,secondary,1,1
+GTCO00449,45,168872.0,7.0,0,208218,5,41,186,1,Lagos,current,secondary,0,0
+GTCO00450,37,153070.0,10.0,3,470182,1,11,216,0,Kano,current,postgraduate,1,2
+GTCO00451,23,664055.0,32.0,1,307066,2,72,227,1,Abuja,savings,undergraduate,0,2
+GTCO00452,49,682117.0,34.0,0,477580,2,41,102,0,Port Harcourt,current,undergraduate,0,1
+GTCO00453,53,489474.0,28.0,2,47913,4,60,111,1,Ibadan,current,secondary,0,1
+GTCO00454,48,102078.0,15.0,1,364177,4,69,89,1,Abuja,current,undergraduate,1,0
+GTCO00455,41,428432.0,30.0,2,371936,4,69,175,0,Ibadan,current,undergraduate,0,2
+GTCO00456,45,667812.0,29.0,1,255497,2,51,239,1,Lagos,current,undergraduate,0,2
+GTCO00457,33,287645.0,22.0,0,453893,3,24,164,0,Kano,savings,undergraduate,0,0
+GTCO00458,56,596507.0,4.0,2,448057,5,23,139,1,Kano,savings,secondary,1,0
+GTCO00459,54,365073.0,20.0,2,182404,3,33,218,1,Port Harcourt,current,postgraduate,0,0
+GTCO00460,54,187309.0,32.0,1,490278,3,78,10,1,Kano,savings,undergraduate,0,1
+GTCO00461,64,389588.0,4.0,2,387007,2,64,9,0,Lagos,current,postgraduate,1,1
+GTCO00462,58,723927.0,27.0,1,493910,3,22,38,1,Port Harcourt,savings,undergraduate,1,1
+GTCO00463,33,524008.0,17.0,1,161104,1,96,20,1,Abuja,current,undergraduate,0,1
+GTCO00464,24,780801.0,12.0,1,173918,4,39,5,1,Kano,current,undergraduate,1,1
+GTCO00465,22,406699.0,22.0,1,195546,1,47,30,1,Port Harcourt,savings,undergraduate,1,1
+GTCO00466,54,395842.0,17.0,0,49936,5,115,72,1,Lagos,savings,postgraduate,0,0
+GTCO00467,61,446594.0,10.0,1,165866,4,99,238,1,Ibadan,savings,undergraduate,0,0
+GTCO00468,31,720775.0,1.0,3,197660,3,95,174,1,Ibadan,current,secondary,1,2
+GTCO00469,64,751519.0,22.0,2,207056,5,15,151,0,Lagos,current,undergraduate,1,1
+GTCO00470,50,103925.0,26.0,3,448547,4,53,30,1,Lagos,savings,undergraduate,1,1
+GTCO00471,34,197023.0,18.0,0,230469,3,117,234,1,Ibadan,current,undergraduate,1,2
+GTCO00472,33,147388.0,14.0,3,33141,1,42,56,1,Port Harcourt,savings,secondary,1,1
+GTCO00473,52,592295.0,29.0,2,407290,4,68,184,1,Ibadan,savings,undergraduate,0,2
+GTCO00474,23,317802.0,12.0,3,142478,3,73,67,1,Lagos,premium,undergraduate,1,2
+GTCO00475,56,495048.0,12.0,0,102359,1,12,102,0,Kano,savings,undergraduate,1,1
+GTCO00476,44,118596.0,7.0,1,390423,5,38,23,1,Abuja,savings,undergraduate,0,0
+GTCO00477,38,411005.0,29.0,3,159363,5,52,237,1,Kano,savings,undergraduate,0,2
+GTCO00478,47,599812.0,11.0,0,46568,5,60,229,1,Kano,savings,secondary,1,0
+GTCO00479,29,582244.0,33.0,0,102539,5,80,15,0,Lagos,savings,undergraduate,0,1
+GTCO00480,50,472498.0,6.0,2,51851,2,106,59,0,Ibadan,savings,undergraduate,1,1
+GTCO00481,47,739290.0,15.0,2,498158,4,69,51,0,Port Harcourt,current,secondary,1,1
+GTCO00482,31,559097.0,32.0,3,59823,4,35,120,1,Kano,savings,undergraduate,0,2
+GTCO00483,47,709789.0,11.0,1,28312,2,8,56,0,Ibadan,current,postgraduate,1,1
+GTCO00484,55,208056.0,23.0,0,441324,3,117,140,1,Port Harcourt,savings,undergraduate,0,0
+GTCO00485,62,,26.0,3,465134,3,113,55,1,Kano,savings,undergraduate,1,1
+GTCO00486,28,798345.0,34.0,0,432387,5,54,46,0,Port Harcourt,current,postgraduate,1,1
+GTCO00487,25,537272.0,34.0,0,439995,1,73,49,1,Ibadan,premium,postgraduate,0,2
+GTCO00488,32,578545.0,29.0,1,204900,3,34,55,1,Abuja,savings,secondary,1,1
+GTCO00489,50,250279.0,4.0,1,365867,1,92,76,1,Ibadan,premium,postgraduate,0,1
+GTCO00490,57,790406.0,17.0,3,279555,4,63,48,1,Lagos,current,undergraduate,0,1
+GTCO00491,46,744647.0,13.0,1,254062,1,71,15,1,Port Harcourt,current,undergraduate,0,1
+GTCO00492,42,99711.0,15.0,1,324153,4,79,167,1,Abuja,current,secondary,0,0
+GTCO00493,57,203026.0,29.0,3,413638,2,49,104,1,Port Harcourt,savings,undergraduate,0,1
+GTCO00494,31,395484.0,29.0,1,440684,2,8,26,1,Port Harcourt,savings,secondary,0,1
+GTCO00495,58,525317.0,11.0,2,37371,5,30,4,0,Kano,current,secondary,1,1
+GTCO00496,30,278134.0,32.0,0,62022,3,31,216,1,Lagos,savings,undergraduate,0,0
+GTCO00497,45,162974.0,2.0,0,338373,5,50,83,1,Port Harcourt,premium,postgraduate,0,0
+GTCO00498,56,209646.0,14.0,0,104071,4,111,102,1,Ibadan,savings,postgraduate,0,0
+GTCO00499,56,462400.0,20.0,0,187268,5,68,144,0,Ibadan,savings,undergraduate,0,0
+GTCO00500,57,210168.0,22.0,3,478570,1,95,140,1,Kano,current,postgraduate,1,2
